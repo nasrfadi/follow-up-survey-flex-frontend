@@ -1,0 +1,72 @@
+
+.body{
+    background-color: lightgray;
+
+}
+.div1{
+   background-color: white;
+   width: 100%;
+   height: 25%;
+   
+   
+}
+.main-container-all{
+    padding: 3% 30%;
+}
+.flex{
+    display: flex;
+    background-color: rgb(101, 226, 153);
+}
+.flexcolumn{
+    flex-direction: column;
+    background-color: #aaaaaa;
+}
+.flexr{
+    flex-wrap: wrap;
+}
+.back{
+    background-color: #e4e4e4;
+    font-weight: 500;
+}
+
+.ss{
+    padding: 0 50;
+
+}
+.shr{
+    flex-shrink: 1;
+}
+.items{
+    align-items: center;
+}
+.padding{
+    padding: 0 85;
+}
+
+.font{
+    color: #905a60;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.title{
+    padding: 10% 25%;
+}
+.button {
+    
+    
+    padding: 15px 25px;
+    font-size: 7px;
+    text-align: center; 
+    color: rgb(255, 255, 255);
+    background-color: #454e46;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 9px #999;
+  }
+.hi{
+    align-content: center;
+    justify-content: center;
+}
+
+
+
+
